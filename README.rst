@@ -8,7 +8,7 @@
 The above code sample will print the word hello.
 
 
-.. code:: python3
+.. code:: python
 
   def my_function():
       "just a test"
