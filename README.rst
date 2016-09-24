@@ -2,8 +2,8 @@
  pages-test
 ============
 
-.. include:: hello.py
-   :code: python
+.. include:: ./hello.py
+
 
 The above code sample will print the word hello.
 
