@@ -1,9 +1,18 @@
 ============
- pages-test
+ Pages Test
 ============
 
-.. include:: ./hello.py
+.. contents::
+
+
+--------------
+ Code Samples
+--------------
+
+.. include hello.py
    :code: python
+
+.. /include hello.py
 
 The above code sample will print the word hello.
 
