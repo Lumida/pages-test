@@ -1,0 +1,1 @@
+since github doesn't support the include directive in RST files, insert RST includes as RST comments and write a script to run as a git hook that will parse RSTs file for "includes" and inline the content of the included files
