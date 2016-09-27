@@ -9,8 +9,13 @@
  Code Samples
 --------------
 
-.. include hello.py
-   :code: python
+.. include hello.py code:: python
+
+.. code:: python
+
+  #!/usr/bin/env python3
+  
+  print("hello")
 
 .. /include hello.py
 
