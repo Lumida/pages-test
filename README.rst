@@ -27,3 +27,13 @@ The above code sample will print the word hello.
   def my_function():
       "just a test"
       print 8/2
+
+
+----------
+ Graphics
+----------
+
+Generate images for graphical UI elements from Selenium tests using scenarioo_
+
+.. _scenarioo: http://scenarioo.org/
+
